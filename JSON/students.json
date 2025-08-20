@@ -1,0 +1,6124 @@
+{
+    "4341893": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4854670": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4861237": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4945621": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "8",
+                "approval": "N"
+            }
+        }
+    },
+    "5039247": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5077123": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5181909": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4861682": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "80",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "80",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "3700246": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "70",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "3963855": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "60",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "60",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4814669": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "50",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "50",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4678847": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "50",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "50",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5110268": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "50",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "50",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "50",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4990977": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4406360": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "9",
+                "approval": "Y"
+            }
+        }
+    },
+    "5059118": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4708352": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5089083": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4812827": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5092234": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4860409": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4771865": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5094065": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4407273": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5063547": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5161021": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4906948": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5110207": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4463196": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4630235": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "20",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "20",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "20",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "20",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "20",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4814314": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4442252": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5095605": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4038805": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5008036": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4871679": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4789684": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5027685": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5178898": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5015202": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "3639402": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4530127": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5107773": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "10",
+                "approval": "N"
+            }
+        }
+    },
+    "4813603": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5152019": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4568407": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4874881": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "5129391": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4826106": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4900177": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4843274": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4809197": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4771795": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4852072": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5002932": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4112743": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4266445": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5059610": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5177097": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5008584": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4012326": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5154852": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5028385": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4092598": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4184322": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5157094": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "5168324": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5150835": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5175356": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4756191": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            }
+        }
+    },
+    "4034437": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4351599": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4815233": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4966769": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "5008126": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4728981": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4232167": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3966301": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4816532": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5124849": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4462109": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5033991": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4827703": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4809810": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4458527": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "3816568": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4548426": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4637240": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "11",
+                "approval": "Y"
+            }
+        }
+    },
+    "4773203": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5101857": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5043253": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "000000039006": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "3851480": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4513089": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "3705868": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3879832": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5060796": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "10",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    },
+    "5177347": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "3966218": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "25",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3975395": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "20",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "20",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "20",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4771708": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "20",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "20",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4677388": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "4888789": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4109686": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5109928": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4518664": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4993986": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5151529": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4772515": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5152026": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4872072": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "3612925": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5078706": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5099374": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5183774": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4665713": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5125252": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4284797": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5113122": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4971757": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5100571": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5052777": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "4771792": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5089158": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4951215": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5140011": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3824987": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5152124": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4969122": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4422213": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4786256": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    },
+    "3695739": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5128222": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4127800": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5008652": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4488161": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "90",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "90",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4968413": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "90",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "90",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3664343": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "70",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "70",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "70",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5078612": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "50",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "50",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "5022374": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "50",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "50",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "50",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4731052": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4915383": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5030451": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4985363": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5107515": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5036361": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "3851242": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4900822": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4945731": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "20",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5057912": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4574992": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "5037000": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4285971": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "4774430": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5078136": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4959449": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4946446": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4898651": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4483871": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            }
+        }
+    },
+    "4592540": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4112397": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "5047504": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4898827": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4872064": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4483868": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4943097": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4871704": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4481852": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4142692": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "70",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "70",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "70",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4976103": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4658199": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "5060435": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4689320": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4889764": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4945617": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5129020": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4871458": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5073293": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4954942": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4610203": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4991578": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5146667": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "5045454": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "12",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "14",
+                "approval": "N"
+            }
+        }
+    },
+    "4366099": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4901008": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5127204": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4039545": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "5030288": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5008294": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4655034": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4893372": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5055216": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4911368": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "5063135": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4846881": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5163664": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "4922711": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "4772172": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "40",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "5036383": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5012301": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "N"
+            }
+        }
+    },
+    "4681634": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4991448": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4991334": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5004615": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4384174": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5082844": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5127289": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4038286": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4111883": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4726896": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5163024": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4972447": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4522586": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5045547": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "12",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "14",
+                "approval": "N"
+            }
+        }
+    },
+    "4885800": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4886190": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4285972": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4886189": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4991024": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5061031": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4730381": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "70",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "70",
+                "selected_priority": "8",
+                "approval": "Y"
+            }
+        }
+    },
+    "4940999": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "25",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "20",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "8",
+                "approval": "N"
+            }
+        }
+    },
+    "3825195": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "12",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "10",
+                "approval": "Y"
+            }
+        }
+    },
+    "4772552": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    },
+    "5019208": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "3833048": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "10",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "11",
+                "approval": "Y"
+            }
+        }
+    },
+    "5060757": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "5142009": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "8",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5111135": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "4993994": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "30",
+                "selected_priority": "9",
+                "approval": "Y"
+            }
+        }
+    },
+    "4985276": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "11",
+                "approval": "Y"
+            }
+        }
+    },
+    "5078368": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "10",
+                "approval": "Y"
+            }
+        }
+    },
+    "4302409": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "11",
+                "approval": "Y"
+            }
+        }
+    },
+    "4463548": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "10",
+                "selected_priority": "11",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "12",
+                "approval": "Y"
+            }
+        }
+    },
+    "5127544": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "100",
+                "selected_priority": "14",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "17",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "7",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "100",
+                "selected_priority": "15",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "19",
+                "approval": "Y"
+            }
+        }
+    },
+    "4810043": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "14",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "16",
+                "approval": "Y"
+            }
+        }
+    },
+    "5164748": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "14",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "17",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "89",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "15",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "19",
+                "approval": "N"
+            }
+        }
+    },
+    "4812709": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "18",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "19",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "17",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5156873": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "20",
+                "selected_priority": "25",
+                "approval": "Y"
+            },
+            " »—": {
+                "sumscore": "20",
+                "selected_priority": "22",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "20",
+                "selected_priority": "24",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "20",
+                "selected_priority": "20",
+                "approval": "Y"
+            }
+        }
+    },
+    "4877288": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "26",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "25",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "24",
+                "approval": "N"
+            }
+        }
+    },
+    "4898163": {
+        "directions": {
+            "»»¡ƒ": {
+                "sumscore": "0",
+                "selected_priority": "48",
+                "approval": "N"
+            },
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "50",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "31",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "52",
+                "approval": "N"
+            }
+        }
+    },
+    "5036363": {
+        "directions": {
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4786105": {
+        "directions": {
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "100",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4606124": {
+        "directions": {
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4606117": {
+        "directions": {
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5033546": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5045250": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5102436": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "3564678": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5163456": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5173074": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4275357": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5099393": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5103958": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4586285": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5099375": {
+        "directions": {
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4411697": {
+        "directions": {
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "5107310": {
+        "directions": {
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5036380": {
+        "directions": {
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4986593": {
+        "directions": {
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4842475": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5052273": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5069728": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4659262": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4676917": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5135436": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4893365": {
+        "directions": {
+            " »—": {
+                "sumscore": "55",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "55",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4845600": {
+        "directions": {
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5048070": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5112244": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4801697": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5130596": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5092316": {
+        "directions": {
+            " »—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4923866": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5164528": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4985377": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4842562": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4985357": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4811708": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4992124": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5164524": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5181866": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4946465": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4842572": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5045505": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "3918203": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "4609947": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4925561": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5125415": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "3805837": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "3650130": {
+        "directions": {
+            " »—": {
+                "sumscore": "100",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "100",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "5075364": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4922903": {
+        "directions": {
+            " »—": {
+                "sumscore": "90",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    },
+    "5039117": {
+        "directions": {
+            " »—": {
+                "sumscore": "30",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "4968415": {
+        "directions": {
+            " »—": {
+                "sumscore": "0",
+                "selected_priority": "7",
+                "approval": "N"
+            },
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4614995": {
+        "directions": {
+            " »—": {
+                "sumscore": "40",
+                "selected_priority": "8",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "7",
+                "approval": "Y"
+            }
+        }
+    },
+    "5099524": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4386584": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5097363": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5008045": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4875826": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4811257": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5119597": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4990938": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5033842": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4505766": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4835099": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5037487": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "40",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "5093666": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5045379": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4968411": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5110470": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4280629": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4201015": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4086596": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            },
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4811414": {
+        "directions": {
+            "Ã “": {
+                "sumscore": "10",
+                "selected_priority": "6",
+                "approval": "Y"
+            },
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4680950": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4461955": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4987614": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "1",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5182047": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "20",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4407234": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "3663589": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4463861": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "3766571": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4846875": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4561228": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4842606": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4965774": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "N"
+            }
+        }
+    },
+    "4811269": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "100",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5162893": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            },
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "4371434": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "N"
+            },
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4675364": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4232055": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4607300": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "40",
+                "selected_priority": "4",
+                "approval": "Y"
+            }
+        }
+    },
+    "5147910": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4110058": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "10",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4920448": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "N"
+            }
+        }
+    },
+    "5163199": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    },
+    "4881929": {
+        "directions": {
+            " ¡«": {
+                "sumscore": "0",
+                "selected_priority": "9",
+                "approval": "Y"
+            }
+        }
+    },
+    "4740319": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "70",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5127152": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "60",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4992070": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "60",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4284180": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "60",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4887920": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "60",
+                "selected_priority": "1",
+                "approval": "Y"
+            }
+        }
+    },
+    "4680158": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4689681": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4991148": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "5184895": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4377355": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "1",
+                "approval": "N"
+            }
+        }
+    },
+    "4995439": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "50",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5063193": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5160711": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "Y"
+            }
+        }
+    },
+    "5052691": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "5063404": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "10",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "3736964": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "2",
+                "approval": "N"
+            }
+        }
+    },
+    "4900496": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "5173882": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "30",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4283841": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4463270": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "3",
+                "approval": "Y"
+            }
+        }
+    },
+    "4615913": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "4",
+                "approval": "N"
+            }
+        }
+    },
+    "4375183": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4834988": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "0",
+                "selected_priority": "5",
+                "approval": "Y"
+            }
+        }
+    },
+    "4842563": {
+        "directions": {
+            "–œ»—": {
+                "sumscore": "100",
+                "selected_priority": "6",
+                "approval": "Y"
+            }
+        }
+    }
+}
