@@ -1,0 +1,695 @@
+{
+    "direction": "Ã “",
+    "data": {
+        "5164528": {
+            "sumscore": "40",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4462109": {
+            "sumscore": "40",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5099524": {
+            "sumscore": "40",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4386584": {
+            "sumscore": "30",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "3975395": {
+            "sumscore": "20",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4771708": {
+            "sumscore": "20",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5097363": {
+            "sumscore": "10",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5008045": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4875826": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "5181866": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5127289": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4811257": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5119597": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5164524": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4990938": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5033842": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5128222": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5069728": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5082844": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4505766": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4835099": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4925561": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4946465": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "4985357": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "3824987": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5078706": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "N"
+        },
+        "4985377": {
+            "sumscore": "0",
+            "selected_priority": "1",
+            "approval": "Y"
+        },
+        "5036363": {
+            "sumscore": "100",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4786105": {
+            "sumscore": "100",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4678847": {
+            "sumscore": "50",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5037487": {
+            "sumscore": "40",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4771865": {
+            "sumscore": "30",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5048070": {
+            "sumscore": "30",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4609947": {
+            "sumscore": "30",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4630235": {
+            "sumscore": "20",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4814314": {
+            "sumscore": "10",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4522586": {
+            "sumscore": "10",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4726896": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4756191": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "4111883": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "4991024": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5177097": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5002932": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5008126": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "5063135": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "4568407": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "5008294": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5093666": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "Y"
+        },
+        "5142009": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "4483871": {
+            "sumscore": "0",
+            "selected_priority": "2",
+            "approval": "N"
+        },
+        "4481852": {
+            "sumscore": "100",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4861682": {
+            "sumscore": "80",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5110268": {
+            "sumscore": "50",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4814669": {
+            "sumscore": "50",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4827703": {
+            "sumscore": "40",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5059118": {
+            "sumscore": "40",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5094065": {
+            "sumscore": "30",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5045379": {
+            "sumscore": "30",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "4968411": {
+            "sumscore": "30",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4888789": {
+            "sumscore": "10",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5168324": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5125415": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5110470": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "4813603": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "5028385": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4284797": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5019208": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5052777": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "4810043": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5103958": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4280629": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "5061031": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "4201015": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5060757": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "Y"
+        },
+        "5099393": {
+            "sumscore": "0",
+            "selected_priority": "3",
+            "approval": "N"
+        },
+        "5008652": {
+            "sumscore": "100",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4127800": {
+            "sumscore": "100",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4488161": {
+            "sumscore": "90",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4990977": {
+            "sumscore": "40",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4812827": {
+            "sumscore": "30",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4458527": {
+            "sumscore": "30",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4677388": {
+            "sumscore": "10",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "4109686": {
+            "sumscore": "10",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4351599": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4874881": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "4842572": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4086596": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "4842562": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4681634": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4969122": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "5151529": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "4034437": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "5015202": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "4665713": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "5175356": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "Y"
+        },
+        "4968415": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "5107773": {
+            "sumscore": "0",
+            "selected_priority": "4",
+            "approval": "N"
+        },
+        "5022374": {
+            "sumscore": "50",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4871704": {
+            "sumscore": "40",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "5060796": {
+            "sumscore": "30",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4985363": {
+            "sumscore": "30",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4689320": {
+            "sumscore": "30",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "5036361": {
+            "sumscore": "30",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "5073293": {
+            "sumscore": "10",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "5057912": {
+            "sumscore": "10",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4885800": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "4886189": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "5135436": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4886190": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "5157094": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "5055216": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "5099374": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "4530127": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "5125252": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "Y"
+        },
+        "4285971": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "4898827": {
+            "sumscore": "0",
+            "selected_priority": "5",
+            "approval": "N"
+        },
+        "4811414": {
+            "sumscore": "10",
+            "selected_priority": "6",
+            "approval": "Y"
+        },
+        "4898651": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "N"
+        },
+        "4966769": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "N"
+        },
+        "5163024": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "N"
+        },
+        "3825195": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "Y"
+        },
+        "5037000": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "Y"
+        },
+        "4901008": {
+            "sumscore": "0",
+            "selected_priority": "6",
+            "approval": "Y"
+        },
+        "5127544": {
+            "sumscore": "100",
+            "selected_priority": "7",
+            "approval": "Y"
+        },
+        "5111135": {
+            "sumscore": "30",
+            "selected_priority": "7",
+            "approval": "Y"
+        },
+        "4943097": {
+            "sumscore": "0",
+            "selected_priority": "7",
+            "approval": "N"
+        },
+        "4406360": {
+            "sumscore": "40",
+            "selected_priority": "8",
+            "approval": "Y"
+        },
+        "5107515": {
+            "sumscore": "30",
+            "selected_priority": "8",
+            "approval": "Y"
+        },
+        "4911368": {
+            "sumscore": "0",
+            "selected_priority": "8",
+            "approval": "Y"
+        },
+        "4815233": {
+            "sumscore": "0",
+            "selected_priority": "8",
+            "approval": "N"
+        },
+        "4574992": {
+            "sumscore": "0",
+            "selected_priority": "8",
+            "approval": "Y"
+        },
+        "5045454": {
+            "sumscore": "0",
+            "selected_priority": "8",
+            "approval": "N"
+        },
+        "5045547": {
+            "sumscore": "0",
+            "selected_priority": "8",
+            "approval": "N"
+        },
+        "4637240": {
+            "sumscore": "30",
+            "selected_priority": "11",
+            "approval": "Y"
+        },
+        "4812709": {
+            "sumscore": "0",
+            "selected_priority": "19",
+            "approval": "Y"
+        },
+        "4940999": {
+            "sumscore": "30",
+            "selected_priority": "25",
+            "approval": "N"
+        },
+        "4898163": {
+            "sumscore": "0",
+            "selected_priority": "31",
+            "approval": "N"
+        },
+        "5164748": {
+            "sumscore": "0",
+            "selected_priority": "89",
+            "approval": "N"
+        }
+    }
+}
